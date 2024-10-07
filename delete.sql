@@ -1,0 +1,1 @@
+DELETE FROM Piece WHERE piece_id = 1;
