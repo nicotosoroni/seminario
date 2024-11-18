@@ -4,7 +4,7 @@ public class Pieza {
     private Alumno alumno;
     private String estado;
 
-    public Pieza(int id, String nombre, Alumno alumno) {
+    public Pieza(int id, String nombre, Alumno alumno, String estado) {
         this.id = id;
         this.nombre = nombre;
         this.alumno = alumno;

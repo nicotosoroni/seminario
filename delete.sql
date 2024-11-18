@@ -1,1 +1,1 @@
-DELETE FROM Piece WHERE piece_id = 1;
+DELETE FROM Piece WHERE piece_id = 6;
